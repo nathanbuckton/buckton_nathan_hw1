@@ -1,0 +1,42 @@
+
+.hidden
+{
+  display: none;
+}
+body
+{
+  font-family: Helvetica, sans-serif;
+}
+
+.container1
+{
+  background-color: #83A9C0;
+  color: white;
+  width: 500px;
+  height: 500px;
+  float: left;
+}
+
+.container1 h1, h3
+{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.container1 h3
+{
+  margin-top: 15px;
+}
+
+#container2
+{
+  float:left;
+  height: 500px;
+  width: 500px;
+  overflow: hidden;
+}
+ #container2 img
+ {
+   min-height: 100%;
+   min-width: 100%;
+ }
